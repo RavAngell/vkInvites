@@ -9,3 +9,7 @@ Simple python script that unsubscribes a user from invites to communities in pop
 - numbers
 
 Use `pip install <dependency>`
+
+# Usage
+`git clone https://github.com/RavAngell/vkInvites.git`
+`python leave_vk_invites.py`
